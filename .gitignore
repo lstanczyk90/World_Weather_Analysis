@@ -7,6 +7,10 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 
+# Adding g_config file
+
+g_config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
